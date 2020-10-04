@@ -15,7 +15,7 @@ Exercício de fixação do capítulo:
 
 [Arquivos](https://github.com/ThayaneMoreira/PythonFundamentos-studies/blob/master/CAP-03/Exercicio1.ipynb)
 
-No laboratório 2, nos foi proposto criarmos uma calculadora utilizando todos os ensinamentos dos capítulos 2 e 3.
+No laboratório 2, a proposta era criarmos uma calculadora utilizando todos os ensinamentos dos capítulos 2 e 3.
 
 <center><img src="https://user-images.githubusercontent.com/67449365/95008415-1f477a00-05f0-11eb-8551-0f62585a7105.jpg" alt="" width="800"></center>
 

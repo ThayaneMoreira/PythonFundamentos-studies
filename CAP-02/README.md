@@ -15,7 +15,7 @@ Exercício de fixação do capítulo:
 
 [Arquivos](https://github.com/ThayaneMoreira/PythonFundamentos-studies/blob/master/CAP-02/Exercicio-Realizado-CAP02.ipynb)
 
-No Laboratório 1, nos foi proposto realizarmos uma análise do código de um jogo para identificarmos o maior número de conteúdo escrito (Variáveis, strings, listas, tuplas).
+No Laboratório 1, a proposta era realizarmos uma análise do código de um jogo para identificarmos o maior número de conteúdo escrito (Variáveis, strings, listas, tuplas).
 
 <center><img src="https://user-images.githubusercontent.com/67449365/94211630-5ad39d00-fea8-11ea-8640-3d2be84f7619.jpg" alt="" width="800"></center>
 
