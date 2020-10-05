@@ -17,6 +17,12 @@ Exercício de fixação do capítulo:
 
 No laboratório 2, a proposta era criarmos uma calculadora utilizando todos os ensinamentos dos capítulos 2 e 3.
 
+Csalculadora com operações matemáticas básicas, utilizando:
+
+- Condicionais;
+- Estruturas de repetição;
+- Funções;
+
 <center><img src="https://user-images.githubusercontent.com/67449365/95008415-1f477a00-05f0-11eb-8551-0f62585a7105.jpg" alt="" width="800"></center>
 
 <center><img src="https://user-images.githubusercontent.com/67449365/95008558-55392e00-05f1-11eb-90e1-35d06d12f600.jpg" alt="" width="800"></center>
