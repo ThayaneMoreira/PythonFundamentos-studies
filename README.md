@@ -22,3 +22,12 @@ O curso, ministrado pela Data Science Academy, mostra os conceitos básicos e fu
 <center><img src="https://user-images.githubusercontent.com/67449365/95008415-1f477a00-05f0-11eb-8551-0f62585a7105.jpg" alt="" width="800"></center>
 
 [Arquivos](https://github.com/ThayaneMoreira/PythonFundamentos-studies/blob/master/CAP-03)
+
+## Capítulo 04
+## Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in:
+
+### Exercícios realizados
+
+<center><img src="https://user-images.githubusercontent.com/67449365/95151722-ca2b7580-0761-11eb-8aa3-c672c370d9d4.jpg" alt="" width="800"></center>
+
+[Arquivos](https://github.com/ThayaneMoreira/PythonFundamentos-studies/blob/master/CAP-04/Exercicio.ipynb)
